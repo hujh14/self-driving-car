@@ -1,0 +1,3 @@
+<launch>
+	<node name="TrafficLightDetect" pkg="traffic_light" type="traffic_light_detect_node.py"/>
+</launch>

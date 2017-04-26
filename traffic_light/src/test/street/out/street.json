@@ -1,0 +1,4 @@
+[{"label":"car","confidence":0.61,"topleft":{"x":72,"y":249},"bottomright":{"x":110,"y":274}},
+{"label":"car","confidence":0.65,"topleft":{"x":193,"y":241},"bottomright":{"x":210,"y":267}},
+{"label":"car","confidence":0.64,"topleft":{"x":289,"y":225},"bottomright":{"x":346,"y":285}},
+{"label":"traffic light","confidence":0.64,"topleft":{"x":182,"y":75},"bottomright":{"x":198,"y":114}}]
